@@ -1,6 +1,6 @@
 # Teste GIT Repo Readme
 
-![./dave.png](David Gilmour Black Strat)
+![David Gilmour Black Strat](./dave.png)
 
 Este repositório é um exemplo para iniciantes como eu hahahah!
 
